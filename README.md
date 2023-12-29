@@ -17,7 +17,7 @@ Experienced Principal Software Engineer with expertise in Go, C/C++, and Javascr
 
 ## Experience
 
-### Principal Software Engineer with ZaloPay, Zion Coporation
+### Principal Software Engineer with ZaloPay, Zion Corporation
 
 June 2020 - Present - Z06, No.13, KCX Tan Thuan, Q7, HCM, Vietnam
 
@@ -35,7 +35,7 @@ June 2020 - Present - Z06, No.13, KCX Tan Thuan, Q7, HCM, Vietnam
 
 Key technology and skills: _Business Intelligence (BI), Design (APIs, System, Database, Messaging), Docker, Elasticsearch, GitLab, Github, Gitlab (internal), Go, Golang, Grafana, Jenkins, K8s, Kafka, OpenSearch, Prometheus, Python, Shell, Unit Testing_
 
-### Associate Software Manager with ZaloPay, VNG Coporation
+### Associate Software Manager with ZaloPay, VNG Corporation
 
 June 2018 - June 2020 - 182 Le Dai Hanh, HCM, Vietnam
 
@@ -50,7 +50,7 @@ June 2018 - June 2020 - 182 Le Dai Hanh, HCM, Vietnam
 
 Key technology and skills: _Apache, Docker, ETCD, Elasticsearch, GitLab, Go, Golang, Goolge Protocolbufer, Jira, Kubernetes (wide range of services), Linux, MacOS, Nginx, Python, Redis, Ruby, Swagger, TIDB, TIKV, gRPC_
 
-### Lead Mobile Developer with TalkTV, VNG Coporation
+### Lead Mobile Developer with TalkTV, VNG Corporation
 
 May 2015 - May 2018 - 182 Le Dai Hanh, HCM, Vietnam
 
@@ -63,7 +63,7 @@ May 2015 - May 2018 - 182 Le Dai Hanh, HCM, Vietnam
 
 Key technology and skills: _Android, Angular, Apache, Debugging, Effects, Firebase, Google Cloud Messaging, Google Play Service, Linux, MacOS, Native (Camera, Audio, Video), Nginx, Notification, Online Store Application, Shell, iOS_
 
-### Senior Backend Developer with TalkTV, VNG Coporation
+### Senior Backend Developer with TalkTV, VNG Corporation
 
 August 2012 - May 2015 - 182 Le Dai Hanh, HCM, Vietnam
 
@@ -77,7 +77,7 @@ August 2012 - May 2015 - 182 Le Dai Hanh, HCM, Vietnam
 
 Key technology and skills: _Apache, C/C++, CSS, Django, GIT, HTML, HTTP, Linux, MacOS, Nginx, PHP, Python, RPC, SVN, Shell, Socket (TCP, UDP), Swagger, Swagger, WordPress_
 
-### Senior Web Developer with ThienTan IT services Co, Ltd.
+### Senior Web Developer with ThienTan IT Services Co, Ltd.
 
 July 2009 - August 2012 - 3 thang 2, HCM, Vietnam
 
