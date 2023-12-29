@@ -11,9 +11,9 @@ Principal Software / Lead Mobile / Senior Backend
 
 ## Other Formats
 
-    => web: http://127.0.0.1:8080/resume
-    => pdf: http://127.0.0.1:8080/resume/thangn.pdf
-    => word: http://127.0.0.1:8080/resume/thangn.docx
+    => web: https://devexps.com/resume
+    => pdf: https://devexps.com/resume/thangn.pdf
+    => word: https://devexps.com/resume/thangn.docx
 
 ## Summary
 
