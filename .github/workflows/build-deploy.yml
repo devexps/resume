@@ -177,7 +177,7 @@ jobs:
         name: Download Resume Artifacts
         with:
           name: src_min
-          path: .
+          path: docs
 
       - name: Debug
         run: |
@@ -190,5 +190,6 @@ jobs:
           author_name: devexps
           author_email: dev.experiences@gmail.com
           new_branch: gh-pages
+          push: origin gh-pages --set-upstream --force
           message: 'Generated Docs Resume'
           add: 'docs'
