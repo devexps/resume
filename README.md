@@ -98,9 +98,9 @@ Apache, Authentication/Authorization, Bash and Shell, BitBucket, C/C++, CI/CD, C
 
 ## Other Formats
 
-* Web/HTML: <http://127.0.0.1:8080/resume/>
-* PDF: <http://127.0.0.1:8080/resume/thangn.pdf>
-* Word: <http://127.0.0.1:8080/resume/thangn.docx>
-* Text: <http://127.0.0.1:8080/resume/thangn.txt>
-* Narrow Text: <http://127.0.0.1:8080/resume/resume-narrow.txt>
-* JSON: <http://127.0.0.1:8080/resume/thangn.json>
+* Web/HTML: <https://devexps.com/resume/>
+* PDF: <https://devexps.com/resume/thangn.pdf>
+* Word: <https://devexps.com/resume/thangn.docx>
+* Text: <https://devexps.com/resume/thangn.txt>
+* Narrow Text: <https://devexps.com/resume/resume-narrow.txt>
+* JSON: <https://devexps.com/resume/thangn.json>
