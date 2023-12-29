@@ -1,0 +1,137 @@
+name: Build
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+
+  yamllint:
+    name: YAML Lint
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@b4ffde65f46336ab88eb53be808477a3936bae11 # v4
+
+      - name: yaml-lint
+        uses: ibiqlik/action-yamllint@v3
+        with:
+          file_or_dir: resume.yaml
+
+  spellcheck:
+    name: Spell Check
+    runs-on: ubuntu-latest
+    timeout-minutes: 4
+    if: "!contains(github.event.head_commit.message, '[ci skip]')"
+    steps:
+      - uses: actions/checkout@b4ffde65f46336ab88eb53be808477a3936bae11 # v4
+        with:
+          ref: ${{ github.ref }}
+
+      - name: TypoCheck
+        uses: typoci/spellcheck-action@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+  build:
+    name: Build Resume
+    runs-on: ubuntu-latest
+    needs: [spellcheck, yamllint]
+
+    steps:
+      - uses: actions/checkout@b4ffde65f46336ab88eb53be808477a3936bae11 # v4
+        with:
+          ref: ${{ github.ref }}
+
+      - name: Generate resume documents from templates (html, md, txt, json)
+        run: |
+          pip install -r requirements.txt
+          make html md txt json
+
+      - name: Generate Word Document
+        uses: docker://pandoc/latex
+        with:
+          args: >
+            --from markdown --to docx README.md
+            -f gfm
+            -o docs/thangn.docx
+
+      - name: Generate PDF Document
+        uses: browser-actions/setup-chrome@latest
+      - run: >
+          chrome
+          -headless
+          -disable-gpu
+          --no-sandbox
+          --print-to-pdf=docs/thangn.pdf
+          --print-to-pdf-no-header
+          docs/index.html
+
+      - name: ls
+        run: ls -l . docs/
+
+      - uses: actions/upload-artifact@master
+        name: Upload Resume Markdown
+        with:
+          name: readme
+          path: |
+            README.md
+
+      - uses: actions/upload-artifact@master
+        name: Upload Resume Artifacts
+        with:
+          name: src
+          path: |
+            docs/
+
+  minify:
+    runs-on: ubuntu-latest
+    container: thekevjames/minify:2.10.0
+    needs: build
+    steps:
+      - uses: actions/checkout@b4ffde65f46336ab88eb53be808477a3936bae11 # v4
+        with:
+          ref: ${{ github.ref }}
+
+      - uses: actions/download-artifact@master
+        name: Download Resume Artifacts
+        with:
+          name: src
+          path: docs
+
+      - name: ls
+        run: ls -l docs/ && head docs/index.html
+
+      - name: Minify
+        run: minify --recursive --output . .
+
+      - name: ls
+        run: ls -l docs/ && head docs/index.html
+
+      - uses: actions/upload-artifact@master
+        name: Upload Resume Artifacts
+        with:
+          name: src
+          path: |
+            docs/
+
+  validate:
+    name: HTML Validation
+    runs-on: ubuntu-latest
+    needs:
+      - build
+      - minify
+    steps:
+      - uses: actions/checkout@b4ffde65f46336ab88eb53be808477a3936bae11 # v4
+        with:
+          ref: ${{ github.ref }}
+
+      - uses: actions/download-artifact@master
+        name: Download Resume Artifacts
+        with:
+          name: src
+          path: _site
+
+      - name: HTML Validation
+        uses: Cyb3r-Jak3/html5validator-action@v7.2.0
+        with:
+          root: _site
