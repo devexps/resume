@@ -102,5 +102,5 @@ Apache, Authentication/Authorization, Bash and Shell, BitBucket, C/C++, CI/CD, C
 * PDF: <https://devexps.com/resume/thangn.pdf>
 * Word: <https://devexps.com/resume/thangn.docx>
 * Text: <https://devexps.com/resume/thangn.txt>
-* Narrow Text: <https://devexps.com/resume/resume-narrow.txt>
+* Narrow Text: <https://devexps.com/resume/thangn-narrow.txt>
 * JSON: <https://devexps.com/resume/thangn.json>
