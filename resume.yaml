@@ -314,6 +314,7 @@ skills:
     - Test-Driven Development
     - Tooling
     - Transactional/Analytical data
+    - Transports (HTTP, gRPC, Kafka, SSE, MQTT)
     - Unit Testing
     - Wire (Dependency Injection)
     - gRPC Ecosystem
