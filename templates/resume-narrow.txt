@@ -43,9 +43,8 @@
 ### {{ edu['school'] | wordwrap(36) | indent(4) }}
 
     {{ edu['degree'] }},
-    {{ edu['field'] }}
-    {{ edu['start'] }},
-    {{ edu['end'] }}
+    {{ edu['field'] }},
+    {{ edu['start'] }} - {{ edu['end'] }}
 
   * Grade: {{ edu['grade'] }}
 {% endfor %}

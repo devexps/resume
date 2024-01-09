@@ -95,8 +95,8 @@ Key technology and skills: _CSS, HTML, Java, Javascript, Linux, MacOS, MongoDB, 
 
 ### Hue college of science, Hue University
 
-Bachelor's degree, Information Technology
-2005, 2009
+Bachelor's degree, Information Technology,
+2005 - 2009
 
 * Grade: Excellent
 
