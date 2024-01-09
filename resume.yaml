@@ -83,9 +83,11 @@ experience:
         discussions and product decisions.
     tech:
       - Business Intelligence (BI)
+      - Dart
       - Design (APIs, System, Database, Messaging)
       - Docker
       - Elasticsearch
+      - Flutter
       - GitLab
       - Github
       - Gitlab (internal)
@@ -256,6 +258,17 @@ experience:
       - Web Frameworks (Contao, Drupal, WordPress,...)
 
 # -----------------------------------------------------------------------------
+# Education
+# -----------------------------------------------------------------------------
+education:
+  - school: Hue college of science, Hue University
+    degree: Bachelor's degree
+    field: Information Technology
+    start: 2005
+    end: 2009
+    grade: Excellent
+
+# -----------------------------------------------------------------------------
 # Skills
 # -----------------------------------------------------------------------------
 skills:
@@ -272,6 +285,7 @@ skills:
     - C/C++
     - CI/CD
     - Consul
+    - Dart
     - Database/Cache
     - Debian/Ubuntu
     - Docker
@@ -281,6 +295,7 @@ skills:
     - Encoding/Transport
     - Everything is Code
     - Gateway/Middleware
+    - Flutter
     - Git
     - GitHub
     - GitHub Actions

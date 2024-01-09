@@ -30,6 +30,17 @@ Key technology and skills: _{% for skill in job['tech'] -%}
 {%- endfor %}_
 {%- endif %}
 {% endfor %}
+
+## Education
+{% for edu in resume['education'] %}
+### {{ edu['school'] }}
+
+{{ edu['degree'] }}, {{ edu['field'] }}
+{{ edu['start'] }}, {{ edu['end'] }}
+
+* Grade: {{ edu['grade'] }}
+{% endfor %}
+
 ## Skills
 {%- if 'strengths' in resume['skills'] %}
 

@@ -33,7 +33,7 @@ June 2020 - Present - Z06, No.13, KCX Tan Thuan, Q7, HCM, Vietnam
 * Contributed ideas, tools, and processes to help products move reliably faster and continue innovating.
 * Researched and learned new technologies, be part of vendor discussions and product decisions.
 
-Key technology and skills: _Business Intelligence (BI), Design (APIs, System, Database, Messaging), Docker, Elasticsearch, GitLab, Github, Gitlab (internal), Go, Golang, Grafana, Jenkins, K8s, Kafka, OpenSearch, Prometheus, Python, Shell, Unit Testing_
+Key technology and skills: _Business Intelligence (BI), Dart, Design (APIs, System, Database, Messaging), Docker, Elasticsearch, Flutter, GitLab, Github, Gitlab (internal), Go, Golang, Grafana, Jenkins, K8s, Kafka, OpenSearch, Prometheus, Python, Shell, Unit Testing_
 
 ### Associate Software Manager with ZaloPay, VNG Corporation
 
@@ -90,11 +90,22 @@ July 2009 - August 2012 - 3 thang 2, HCM, Vietnam
 
 Key technology and skills: _CSS, HTML, Java, Javascript, Linux, MacOS, MongoDB, MySQL, Nginx, PHP, Python, SQLite, Web Frameworks (Contao, Drupal, WordPress,...)_
 
+
+## Education
+
+### Hue college of science, Hue University
+
+Bachelor's degree, Information Technology
+2005, 2009
+
+* Grade: Excellent
+
+
 ## Skills
 
 Key strengths: _Leadership, Problem Solving, Team Collaboration_
 
-Apache, Authentication/Authorization, Bash and Shell, BitBucket, C/C++, CI/CD, Consul, Database/Cache, Debian/Ubuntu, Docker, EFK (Elasticsearch + Fluentd + Kibana), ETCD, Elasticsearch, Encoding/Transport, Everything is Code, Gateway/Middleware, Git, GitHub, GitHub Actions, GitLab, GitLab CI/CD, Go, Golang, HAProxy, HTML/CSS, Infrastructure as Code, Jaeger Tracing, Jira, Kubernetes (K8s, Ingresses, Pods, ConfigMap, Log), MacOs/Linux, MariaDB/MySQL, Microservice, MongoDB, Monitoring (Metrics + Prometheus + Grafana), Nginx, Node.js, PHP, PostgreSQL, Python, Rate limiter/CircuitBreaker, RedHat/CentOS, Registry/Discovery, Security and Compliance, Serverless, TIDB, TIKV, Test-Driven Development, Tooling, Transactional/Analytical data, Transports (HTTP, gRPC, Kafka, SSE, MQTT), Unit Testing, Wire (Dependency Injection), gRPC Ecosystem
+Apache, Authentication/Authorization, Bash and Shell, BitBucket, C/C++, CI/CD, Consul, Dart, Database/Cache, Debian/Ubuntu, Docker, EFK (Elasticsearch + Fluentd + Kibana), ETCD, Elasticsearch, Encoding/Transport, Everything is Code, Gateway/Middleware, Flutter, Git, GitHub, GitHub Actions, GitLab, GitLab CI/CD, Go, Golang, HAProxy, HTML/CSS, Infrastructure as Code, Jaeger Tracing, Jira, Kubernetes (K8s, Ingresses, Pods, ConfigMap, Log), MacOs/Linux, MariaDB/MySQL, Microservice, MongoDB, Monitoring (Metrics + Prometheus + Grafana), Nginx, Node.js, PHP, PostgreSQL, Python, Rate limiter/CircuitBreaker, RedHat/CentOS, Registry/Discovery, Security and Compliance, Serverless, TIDB, TIKV, Test-Driven Development, Tooling, Transactional/Analytical data, Transports (HTTP, gRPC, Kafka, SSE, MQTT), Unit Testing, Wire (Dependency Injection), gRPC Ecosystem
 
 ## Other Formats
 

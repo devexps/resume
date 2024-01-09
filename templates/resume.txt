@@ -33,6 +33,17 @@
     {{ job['tech'] | join(", ") | wordwrap(63)  | indent(4) }}
 {%- endif %}
 {% endfor %}
+
+## Education
+{% for edu in resume['education'] %}
+### {{ edu['school'] }}
+
+    {{ edu['degree'] }}, {{ edu['field'] }}
+    {{ edu['start'] }}, {{ edu['end'] }}
+
+  * Grade: {{ edu['grade'] }}
+{% endfor %}
+
 ## Skills
 {%- if 'strengths' in resume['skills'] %}
 
