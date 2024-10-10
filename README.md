@@ -35,9 +35,10 @@ Experienced **Senior Backend Engineer** with over 10 years of experience in soft
 * Introduced **CI/CD pipelines**, reducing deployment times by 50% and improving system reliability.
 * Optimized **payment processing**, reducing transaction times by 20% and increasing system throughput.
 
-**Key Technologies:** 
-_Go (Golang), Docker, Kubernetes, Prometheus, Jenkins, GitLab CI/CD, Microservices, Elasticsearch, MySQL, TiDB/TiKV, Kafka, Rate Limiter, Circuit Breaker_
-<br/><br/>
+_**Key Technologies:** 
+Go (Golang), Docker, Kubernetes, Prometheus, Jenkins, GitLab CI/CD, Microservices, Elasticsearch, MySQL, TiDB/TiKV, Kafka, Rate Limiter, Circuit Breaker_
+
+<br/>
 
 ### Associate Software Manager with ZaloPay, VNG Corporation
 
@@ -50,9 +51,10 @@ _Go (Golang), Docker, Kubernetes, Prometheus, Jenkins, GitLab CI/CD, Microservic
 * Led sprint planning and retrospectives, helping the team identify and resolve issues for continuous improvement.
 * Developed a **microservices framework**, reducing development time for new features by 20%.
 
-**Key Technologies:** 
-_Go (Golang), Redis, Elasticsearch, Docker, Kubernetes, gRPC, RESTful APIs, MySQL, PostgreSQL, Kafka_
-<br/><br/>
+_**Key Technologies:** 
+Go (Golang), Redis, Elasticsearch, Docker, Kubernetes, gRPC, RESTful APIs, MySQL, PostgreSQL, Kafka_
+
+<br/>
 
 ### Lead Mobile Developer with TalkTV, VNG Corporation
 
@@ -64,9 +66,10 @@ _Go (Golang), Redis, Elasticsearch, Docker, Kubernetes, gRPC, RESTful APIs, MySQ
 * Integrated **backend services** with **databases** to ensure data integrity and high performance across mobile platforms.
 * Mentored team members in mobile development and cross-platform tools, helping some developers expand their skills into full-stack development.
 
-**Key Technologies:** 
-_Android, iOS, Swift, Java, Google Cloud Messaging, Firebase, Google Maps API, MySQL_
-<br/><br/>
+_**Key Technologies:** 
+Android, iOS, Swift, Java, Google Cloud Messaging, Firebase, Google Maps API, MySQL_
+
+<br/>
 
 ### Senior Backend Developer with TalkTV, VNG Corporation
 
@@ -77,9 +80,10 @@ _Android, iOS, Swift, Java, Google Cloud Messaging, Firebase, Google Maps API, M
 * Documented APIs using **Swagger** for internal and third-party use, ensuring easy integration and future maintenance.
 * Supported junior developers by providing **code reviews** and guidance on best practices.
 
-**Key Technologies:** 
-_C/C++, Python, Django, MySQL, Git, Swagger_
-<br/><br/>
+_**Key Technologies:** 
+C/C++, Python, Django, MySQL, Git, Swagger_
+
+<br/>
 
 ### Senior Web Developer with ThienTan IT Services Co, Ltd.
 
@@ -91,9 +95,10 @@ _C/C++, Python, Django, MySQL, Git, Swagger_
 * Worked on backend services using **PHP**, **MySQL**, and **JavaScript**, focusing on improving performance and scalability for web applications.
 * Delivered software solutions using **PHP frameworks** and content management systems like **WordPress**, **Drupal**, and **Contao**.
 
-**Key Technologies:** 
-_PHP, MySQL, JavaScript, HTML, CSS, WordPress, Drupal, MongoDB, Nginx, Linux_
-<br/><br/>
+_**Key Technologies:** 
+PHP, MySQL, JavaScript, HTML, CSS, WordPress, Drupal, MongoDB, Nginx, Linux_
+
+<br/>
 
 
 <br/><br/>
@@ -120,6 +125,9 @@ _PHP, MySQL, JavaScript, HTML, CSS, WordPress, Drupal, MongoDB, Nginx, Linux_
 * Integrated monitoring and management tools for both merchants and internal teams, improving efficiency and reducing downtime.
 * Developed a reusable microservices framework at ZaloPay, enabling faster development of new services and improving scalability.
 
+<br/>
+
+
 ### TalkTV Social Media Platform
 
 * Contributed to the development of TalkTV, an online social media platform for idols, game streamers, and viewers to interact via chat, emojis, and gifts. Supported real-time communication with up to 2,000 concurrent users per room.
@@ -127,6 +135,9 @@ _PHP, MySQL, JavaScript, HTML, CSS, WordPress, Drupal, MongoDB, Nginx, Linux_
 * Worked on the development of the mobile platform (iOS and Android) to ensure that essential features for users and streamers were functional.
 * Joined the backend team to develop features that enabled real-time interactions between multiple users and streamers, focusing on optimizing performance for low-latency and high-concurrency environments.
 * Tackled challenges related to video rendering, voice streaming, and data security across different device types and platforms.
+
+<br/>
+
 
 
 <br/><br/>

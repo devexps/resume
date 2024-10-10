@@ -87,7 +87,9 @@
             <section>
                 <h2 id="summary">Summary</h2>
                 <div class="section_content">
-                    <p>{{ resume['summary'] }}</p>
+                    <article class="content">
+                        <p>{{ resume['summary'] }}</p>
+                    </article>
                 </div>
                 <div class="clear"></div>
             </section>
@@ -105,8 +107,7 @@
                         </ul>
                         {%- if 'tech' in job %}
                         <p class="key_tech">
-                            <strong>Key Technologies:</strong><br>
-                            <em>
+                            <em><strong>Key Technologies:</strong><br>
                             {%- for skill in job['tech'] -%}
                                 {{ skill }}
                                 {%- if not loop.last %}, {% endif %}
@@ -122,13 +123,15 @@
             <section>
                 <h2 id="skills">Key Skills</h2>
                 <div class="section_content">
-                    {%- if 'keys' in resume['skills'] %}
-                    <ul>
-                        {%- for item in resume['skills']['keys'] %}
-                          <li>{{ item }}</li>
-                        {%- endfor %}
-                    </ul>
-                    {%- endif %}
+                    <article class="content">
+                        {%- if 'keys' in resume['skills'] %}
+                        <ul>
+                            {%- for item in resume['skills']['keys'] %}
+                              <li>{{ item }}</li>
+                            {%- endfor %}
+                        </ul>
+                        {%- endif %}
+                    </article>
                 </div>
                 <div class="clear"></div>
             </section>
@@ -152,7 +155,7 @@
                 <h2 id="education">Education</h2>
                 <div class="section_content">
                     {% for edu in resume['education'] %}
-                    <article class="education">
+                    <article class="content">
                         <h3 class="position">{{ edu['school'] }}</h3>
                         <p><strong>{{ edu['degree'] }}, {{ edu['field'] }}</strong></p>
                         <p>{{ edu['start'] }} - {{ edu['end'] }}</p>
@@ -165,7 +168,9 @@
             <section>
                 <h2 id="goals">Goals</h2>
                 <div class="section_content">
-                    <p>{{ resume['goals'] }}</p>
+                    <article class="content">
+                        <p>{{ resume['goals'] }}</p>
+                    </article>
                 </div>
                 <div class="clear"></div>
             </section>

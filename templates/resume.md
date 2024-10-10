@@ -30,12 +30,14 @@
 {%- endfor %}
 {%- if 'tech' in job %}
 
-**Key Technologies:** 
-_{% for skill in job['tech'] -%}
+_**Key Technologies:** 
+{% for skill in job['tech'] -%}
 {{ skill }}
 {%- if not loop.last %}, {% endif %}
 {%- endfor %}_
-<br/><br/>
+
+<br/>
+
 {%- endif %}
 {% endfor %}
 
@@ -54,6 +56,9 @@ _{% for skill in job['tech'] -%}
 {% for item in project['details'] %}
 * {{ item }}
 {%- endfor %}
+
+<br/>
+
 {% endfor %}
 
 <br/><br/>
