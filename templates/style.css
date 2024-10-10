@@ -142,28 +142,28 @@ a[href^=tel] {
   margin-left: 0px;
 }
 
-article.job {
+article.content {
   margin-bottom: 14px;
   padding-bottom: 14px;
   border-bottom: 1px dashed #DEDEDE;
 }
 
-article.job:last-child {
+article.content:last-child {
   border-bottom: none;
 }
 
 h3 + ul,
-article.job ul {
+article.content ul {
   margin: 20px 0 0 10px;
   list-style: square;
 }
 
 h3 + ul li,
-article.job ul li {
+article.content ul li {
   margin-bottom: 4px;
 }
 
-article.job ul li p {
+article.content ul li p {
   display: inline;
 }
 
@@ -215,8 +215,8 @@ h3:first-child {
   margin-top: 8px;
 }
 
-#resume_content .section_content .job h2 a:visited,
-#resume_content .section_content .job h2 a {
+#resume_content .section_content .content h2 a:visited,
+#resume_content .section_content .content h2 a {
   color: #34495D;
 }
 

@@ -8,7 +8,7 @@
     <base href="{{ resume['url'] }}/" />
     <link rel="canonical" href="{{ resume['url'] }}" />
     <meta name="description" content="{{ resume['description'] }}" />
-    <meta name="keywords" content="thang ngo, devexps, thang ngo principal software engineer, thang ngo lead mobile developer, thang ngo senior web developer" />
+    <meta name="keywords" content="Thang Ngo, devexps, Senior Backend Engineer, Principal Software Engineer, Golang Developer, Microservices, Kubernetes, Docker, DevOps, CI/CD, Mobile Development, Java, Kotlin, Objective-C, Swift, Dart, Rate Limiter, Circuit Breaker, Kafka, ETCD, Prometheus, Grafana, Elasticsearch, Fluentd, Kibana, Jenkins, GitLab CI/CD" />
     <meta name="viewport" content="width=device-width,initial-scale=1" />
     <meta name="HandheldFriendly" content="True" />
     <meta name="MobileOptimized" content="320" />
@@ -92,10 +92,10 @@
                 <div class="clear"></div>
             </section>
             <section>
-                <h2 id="experience">Experience</h2>
+                <h2 id="experience">Work Experience</h2>
                 <div class="section_content">
                     {% for job in resume['experience'] %}
-                    <article class="job">
+                    <article class="content">
                         <h3 class="position">{{ job['title'] }} with {{ job['org'] }}</h3>
                         <p><strong>{{ job['start'] }} - {{ job['end'] }} · {{ job['location'] }}</strong></p>
                         <ul>
@@ -105,7 +105,7 @@
                         </ul>
                         {%- if 'tech' in job %}
                         <p class="key_tech">
-                            Key technology and skills:
+                            <strong>Key Technologies:</strong><br />
                         <em>
                         {%- for skill in job['tech'] -%}
                             {{ skill }}
@@ -114,6 +114,37 @@
                         </em>
                         </p>
                         {%- endif %}
+                    </article>
+                    {% endfor %}
+                </div>
+                <div class="clear"></div>
+            </section>
+            <section>
+                <h2 id="skills">Key Skills</h2>
+                <div class="section_content">
+                    {%- if 'keys' in resume['skills'] %}
+                    <p class="key_skill">
+                        <ul>
+                            {%- for item in resume['skills']['keys'] %}
+                              <li>{{ item }}</li>
+                            {%- endfor %}
+                        </ul>
+                    </p>
+                    {%- endif %}
+                </div>
+                <div class="clear"></div>
+            </section>
+            <section>
+                <h2 id="">Projects</h2>
+                <div class="section_content">
+                    {% for project in resume['projects'] %}
+                    <article class="content">
+                        <h3 class="position">{{ project['title'] }}</h3>
+                        <ul>
+                            {%- for item in project['details'] %}
+                              <li>{{ item }}</li>
+                            {%- endfor %}
+                        </ul>
                     </article>
                     {% endfor %}
                 </div>
@@ -134,25 +165,9 @@
                 <div class="clear"></div>
             </section>
             <section>
-                <h2 id="skills">Skills</h2>
+                <h2 id="goals">Goals</h2>
                 <div class="section_content">
-                    {%- if 'strengths' in resume['skills'] %}
-                    <p class="key_strength">
-                        Key strengths:
-                        <em>
-                            {%- for strength in resume['skills']['strengths'] -%}
-                            {{ strength }}
-                            {%- if not loop.last %}, {% endif %}
-                            {%- endfor %}
-                        </em>
-                    </p>
-                    {%- endif %}
-                    <p class="key_tech">
-                    {%- for skill in resume['skills']['products'] -%}
-                        {{ skill }}
-                        {%- if not loop.last %} &middot; {% endif %}
-                    {%- endfor %}
-                    </p>
+                    <p>{{ resume['goals'] }}</p>
                 </div>
                 <div class="clear"></div>
             </section>

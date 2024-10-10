@@ -61,6 +61,7 @@ config = Config({
 
 # Helpers
 base_dir = os.path.dirname(os.path.realpath(__file__))
+tag_remove = re.compile(r'<.*?>')
 
 # Current date
 current_date_time = datetime.datetime.now()
@@ -92,18 +93,13 @@ def resume(theformat='plain'):
     with open(config.resume_yaml, 'r') as file:
         resume_content = yaml.safe_load(file)
 
-        if theformat == 'raw':
-            return resume_content
+        if theformat != 'html':
+            resume_text = json.dumps(resume_content)
 
-        for i, job in enumerate(resume_content['experience']):
-            if 'details' in job:
-                details = []
-                for detail in job['details']:
-                    if theformat == 'plain':
-                        details.append(md_strip(detail))
-                    if theformat == 'html':
-                        details.append(markdown.markdown(detail))
-                    resume_content['experience'][i]['details'] = details
+            if theformat == "md":
+                resume_text = resume_text.replace("<b>", "**").replace("</b>", "**")
+            
+            return json.loads(tag_remove.sub('', resume_text))
 
     return resume_content
 
@@ -167,7 +163,7 @@ def gen_html():
 def gen_markdown():
     """Generate Markdown file from Jina2 template."""
     md = build_template(source=config.markdown.template,
-                        autoescape=True, theformat='raw')
+                        autoescape=True, theformat='md')
     write_out(target=config.markdown.out, content=md)
 
 def gen_txt():

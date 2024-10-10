@@ -22,7 +22,7 @@
 
     {{ resume['summary'] | wordwrap(36) | indent(4) }}
 
-## Experience
+## Work Experience
 {% for job in resume['experience'] %}
 ### {{ job['title'] }}
     with {{ job['org'] }}
@@ -33,9 +33,22 @@
   * {{ item | wordwrap(36) | indent(4) }}
 {% endfor %}
 {%- if 'tech' in job %}
-    Key technology and skills:
+    Key Technologies:
     {{ job['tech'] | join(", ") | wordwrap(36)  | indent(4) }}
 {%- endif %}
+{% endfor %}
+
+## Key Skills
+{% for item in resume['skills']['keys'] %}
+  * {{ item | wordwrap(36) | indent(4) }}
+{%- endfor %}
+
+## Projects
+{% for project in resume['projects'] %}
+### {{ project['title'] }}
+{% for item in project['details'] %}
+  * {{ item | wordwrap(36) | indent(4) }}
+{%- endfor %}
 {% endfor %}
 
 ## Education
@@ -49,12 +62,7 @@
   * Grade: {{ edu['grade'] }}
 {% endfor %}
 
-## Skills
-{%- if 'strengths' in resume['skills'] %}
+## Goals
 
-    Key strengths:
-    {{ resume['skills']['strengths'] | join(", ") | wordwrap(36)  | indent(4) }}
-{%- endif %}
-
-    {{ resume['skills']['products'] | join(", ") | wordwrap(36) | indent(4) }}
+    {{ resume['goals'] | wordwrap(63) | indent(4) }}
 

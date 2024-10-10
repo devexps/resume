@@ -14,22 +14,34 @@
 
 {{ resume['summary'] }}
 
-## Experience
+## Work Experience
 {% for job in resume['experience'] %}
 ### {{ job['title'] }} with {{ job['org'] }}
 
-{{ job['start'] }} - {{ job['end'] }} - {{ job['location'] }}
+**{{ job['start'] }} - {{ job['end'] }} - {{ job['location'] }}**
 {% for item in job['details'] %}
 * {{ item }}
 {%- endfor %}
 {%- if 'tech' in job %}
-
-Key technology and skills: _{% for skill in job['tech'] -%}
+**Key Technologies:** _{% for skill in job['tech'] -%}
 {{ skill }}
 {%- if not loop.last %}, {% endif %}
 {%- endfor %}_
 {%- endif %}
 {% endfor %}
+
+## Key Skills
+{% for item in resume['skills']['keys'] %}
+* {{ item }}
+{%- endfor %}
+
+## Projects
+{% for project in resume['projects'] %}
+### {{ project['title'] }}
+{% for item in project['details'] %}
+* {{ item }}
+{%- endfor %}
+{%- endfor %}
 
 ## Education
 {% for edu in resume['education'] %}
@@ -41,19 +53,9 @@ Key technology and skills: _{% for skill in job['tech'] -%}
 * Grade: {{ edu['grade'] }}
 {% endfor %}
 
-## Skills
-{%- if 'strengths' in resume['skills'] %}
+## Goals
 
-Key strengths: _{% for strength in resume['skills']['strengths'] -%}
-{{ strength }}
-{%- if not loop.last %}, {% endif %}
-{%- endfor %}_
-{%- endif %}
-
-{% for skill in resume['skills']['products'] -%}
-{{ skill }}
-{%- if not loop.last %}, {% endif %}
-{%- endfor %}
+{{ resume['goals'] }}
 
 ## Other Formats
 
