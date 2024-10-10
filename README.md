@@ -2,6 +2,8 @@
 
 ## Senior Backend Engineer / Technical Lead
 
+<br/>
+
 ## Contact Details
 
 * Email: [dev.experiences@gmail.com](mailto:dev.experiences@gmail.com)
@@ -10,10 +12,13 @@
 * Location: [HCMC, Vietnam](https://en.wikipedia.org/wiki/Ho_Chi_Minh_City)
 * [Other Formats](#other-formats)
 
+<br/>
+
 ## Summary
 
 Experienced **Senior Backend Engineer** with over 10 years of experience in software development, specializing in **Golang** and backend systems. With a strong ability to combine 70% hands-on coding and 30% leadership, I effectively manage cross-functional teams while mentoring junior developers to improve performance. I have a proven track record in optimizing systems, designing **microservices**, and maintaining **CI/CD pipelines**. Skilled in managing large-scale **databases** to ensure high performance and availability. I am now looking for a new challenge where I can apply my technical and leadership skills to solve real-world problems and drive innovation in a dynamic environment.
 
+<br/>
 
 ## Work Experience
 
@@ -86,6 +91,8 @@ _C/C++, Python, Django, MySQL, Git, Swagger_
 _PHP, MySQL, JavaScript, HTML, CSS, WordPress, Drupal, MongoDB, Nginx, Linux_
 
 
+<br/>
+
 ## Key Skills
 
 * **Backend Development**: Go (Golang), Microservices, RESTful APIs, gRPC
@@ -98,6 +105,7 @@ _PHP, MySQL, JavaScript, HTML, CSS, WordPress, Drupal, MongoDB, Nginx, Linux_
 * **System Design & Scalability**: High-performance systems, Distributed systems
 * **Team Leadership & Management**: Agile, Scrum, Mentoring, Project Management, Stakeholder Management
 
+<br/>
 
 ## Projects
 
@@ -116,6 +124,8 @@ _PHP, MySQL, JavaScript, HTML, CSS, WordPress, Drupal, MongoDB, Nginx, Linux_
 * Tackled challenges related to video rendering, voice streaming, and data security across different device types and platforms.
 
 
+<br/>
+
 ## Education
 
 ### Hue college of science, Hue University
@@ -126,11 +136,13 @@ Bachelor's degree, Information Technology,
 * Grade: Graduated with honors.
 
 
+<br/>
 
 ## Goals
 
 I am looking for a new opportunity where I can combine my technical skills and leadership experience to solve real-world problems. My goal is to work in a dynamic environment that challenges me technically, while also allowing me to contribute to team development and project success. I want to apply my knowledge of backend development, microservices, and DevOps to create efficient, scalable systems that make a real impact.
 
+<br/><br/>
 
 ## Other Formats
 

@@ -2,6 +2,8 @@
 
 ## {{ resume['headline'] }}
 
+<br/>
+
 ## Contact Details
 
 * Email: [{{ resume['contact']['email'] }}](mailto:{{ resume['contact']['email'] }})
@@ -10,10 +12,13 @@
 * Location: [{{ resume['contact']['location']['title'] }}]({{ resume['contact']['location']['url'] }})
 * [Other Formats](#other-formats)
 
+<br/>
+
 ## Summary
 
 {{ resume['summary'] }}
 
+<br/>
 
 ## Work Experience
 {% for job in resume['experience'] %}
@@ -33,11 +38,14 @@ _{% for skill in job['tech'] -%}
 {%- endif %}
 {% endfor %}
 
+<br/>
+
 ## Key Skills
 {% for item in resume['skills']['keys'] %}
 * {{ item }}
 {%- endfor %}
 
+<br/>
 
 ## Projects
 {% for project in resume['projects'] %}
@@ -46,6 +54,8 @@ _{% for skill in job['tech'] -%}
 * {{ item }}
 {%- endfor %}
 {% endfor %}
+
+<br/>
 
 ## Education
 {% for edu in resume['education'] %}
@@ -57,11 +67,13 @@ _{% for skill in job['tech'] -%}
 * Grade: {{ edu['grade'] }}
 {% endfor %}
 
+<br/>
 
 ## Goals
 
 {{ resume['goals'] }}
 
+<br/><br/>
 
 ## Other Formats
 
