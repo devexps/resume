@@ -2,7 +2,7 @@
 
 ## Senior Backend Engineer / Technical Lead
 
-<br/>
+<br/><br/>
 
 ## Contact Details
 
@@ -12,13 +12,13 @@
 * Location: [HCMC, Vietnam](https://en.wikipedia.org/wiki/Ho_Chi_Minh_City)
 * [Other Formats](#other-formats)
 
-<br/>
+<br/><br/>
 
 ## Summary
 
 Experienced **Senior Backend Engineer** with over 10 years of experience in software development, specializing in **Golang** and backend systems. With a strong ability to combine 70% hands-on coding and 30% leadership, I effectively manage cross-functional teams while mentoring junior developers to improve performance. I have a proven track record in optimizing systems, designing **microservices**, and maintaining **CI/CD pipelines**. Skilled in managing large-scale **databases** to ensure high performance and availability. I am now looking for a new challenge where I can apply my technical and leadership skills to solve real-world problems and drive innovation in a dynamic environment.
 
-<br/>
+<br/><br/>
 
 ## Work Experience
 
@@ -37,6 +37,7 @@ Experienced **Senior Backend Engineer** with over 10 years of experience in soft
 
 **Key Technologies:** 
 _Go (Golang), Docker, Kubernetes, Prometheus, Jenkins, GitLab CI/CD, Microservices, Elasticsearch, MySQL, TiDB/TiKV, Kafka, Rate Limiter, Circuit Breaker_
+<br/><br/>
 
 ### Associate Software Manager with ZaloPay, VNG Corporation
 
@@ -51,6 +52,7 @@ _Go (Golang), Docker, Kubernetes, Prometheus, Jenkins, GitLab CI/CD, Microservic
 
 **Key Technologies:** 
 _Go (Golang), Redis, Elasticsearch, Docker, Kubernetes, gRPC, RESTful APIs, MySQL, PostgreSQL, Kafka_
+<br/><br/>
 
 ### Lead Mobile Developer with TalkTV, VNG Corporation
 
@@ -64,6 +66,7 @@ _Go (Golang), Redis, Elasticsearch, Docker, Kubernetes, gRPC, RESTful APIs, MySQ
 
 **Key Technologies:** 
 _Android, iOS, Swift, Java, Google Cloud Messaging, Firebase, Google Maps API, MySQL_
+<br/><br/>
 
 ### Senior Backend Developer with TalkTV, VNG Corporation
 
@@ -76,6 +79,7 @@ _Android, iOS, Swift, Java, Google Cloud Messaging, Firebase, Google Maps API, M
 
 **Key Technologies:** 
 _C/C++, Python, Django, MySQL, Git, Swagger_
+<br/><br/>
 
 ### Senior Web Developer with ThienTan IT Services Co, Ltd.
 
@@ -89,9 +93,10 @@ _C/C++, Python, Django, MySQL, Git, Swagger_
 
 **Key Technologies:** 
 _PHP, MySQL, JavaScript, HTML, CSS, WordPress, Drupal, MongoDB, Nginx, Linux_
+<br/><br/>
 
 
-<br/>
+<br/><br/>
 
 ## Key Skills
 
@@ -105,7 +110,7 @@ _PHP, MySQL, JavaScript, HTML, CSS, WordPress, Drupal, MongoDB, Nginx, Linux_
 * **System Design & Scalability**: High-performance systems, Distributed systems
 * **Team Leadership & Management**: Agile, Scrum, Mentoring, Project Management, Stakeholder Management
 
-<br/>
+<br/><br/>
 
 ## Projects
 
@@ -124,7 +129,7 @@ _PHP, MySQL, JavaScript, HTML, CSS, WordPress, Drupal, MongoDB, Nginx, Linux_
 * Tackled challenges related to video rendering, voice streaming, and data security across different device types and platforms.
 
 
-<br/>
+<br/><br/>
 
 ## Education
 
@@ -136,7 +141,7 @@ Bachelor's degree, Information Technology,
 * Grade: Graduated with honors.
 
 
-<br/>
+<br/><br/>
 
 ## Goals
 
