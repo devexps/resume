@@ -22,22 +22,6 @@ Experienced **Senior Backend Engineer** with over 10 years of experience in soft
 
 ## Work Experience
 
-### Senior Backend Engineer / Team Lead with Remote for Singapore-based Company
-
-**February 2024 - Present - Singapore**
-
-* Led a remote team of 4 engineers in Vietnam, focusing primarily on **code reviews** to ensure high-quality standards and maintain consistency across the codebase.
-* Conducted **detailed code reviews**, providing feedback, and ensuring adherence to best practices in **Golang** development, reducing bug rates by 15%.
-* Collaborated with the **CTO** and **Product Owner** in Singapore to ensure the team delivered solutions that aligned with business needs.
-* Developed backend services using **Golang** to integrate multiple ride-hailing services, optimizing data handling and improving response times by 25%.
-* Managed local **data storage** for user transactions, ensuring **fast response times** and high availability for customer requests.
-* Applied **Scrum** methodology to manage sprints and continuously improve team performance.
-
-_**Key Technologies:** 
-Go (Golang), API Integration, Microservices, RESTful APIs, Data Management, Code Reviews, Scrum, SQL/NoSQL Databases_
-
-<br/>
-
 ### Principal Software Engineer with ZaloPay, Zion Corporation
 
 **June 2020 - December 2023 - Z06, No.13, KCX Tan Thuan, Q7, HCM, Vietnam**
@@ -130,15 +114,6 @@ PHP, MySQL, JavaScript, HTML, CSS, WordPress, Drupal, MongoDB, Nginx, Linux_
 <br/><br/>
 
 ## Projects
-
-### Ride-Hailing Aggregation Platform
-
-* Developed a unified backend system connecting multiple ride-hailing services, improving user ride-booking efficiency by integrating real-time data from partners.
-* Ensured high-quality code through **extensive code reviews**, reducing bug rates by 15% and improving system stability.
-* Optimized the platform for **high concurrency**, supporting thousands of users with minimal latency.
-
-<br/>
-
 
 ### ZaloPay Merchant Platform
 

@@ -45,27 +45,27 @@ summary: Experienced <b>Senior Backend Engineer</b> with over 10 years of experi
 # Experience
 # -----------------------------------------------------------------------------
 experience:
-  - title: Senior Backend Engineer / Team Lead
-    org: Remote for Singapore-based Company
-    start: February 2024
-    end: Present
-    location: Singapore
-    details:
-      - Led a remote team of 4 engineers in Vietnam, focusing primarily on <b>code reviews</b> to ensure high-quality standards and maintain consistency across the codebase.
-      - Conducted <b>detailed code reviews</b>, providing feedback, and ensuring adherence to best practices in <b>Golang</b> development, reducing bug rates by 15%.
-      - Collaborated with the <b>CTO</b> and <b>Product Owner</b> in Singapore to ensure the team delivered solutions that aligned with business needs.
-      - Developed backend services using <b>Golang</b> to integrate multiple ride-hailing services, optimizing data handling and improving response times by 25%.
-      - Managed local <b>data storage</b> for user transactions, ensuring <b>fast response times</b> and high availability for customer requests.
-      - Applied <b>Scrum</b> methodology to manage sprints and continuously improve team performance.
-    tech:
-      - Go (Golang)
-      - API Integration
-      - Microservices
-      - RESTful APIs
-      - Data Management
-      - Code Reviews
-      - Scrum
-      - SQL/NoSQL Databases
+  # - title: Senior Backend Engineer / Team Lead
+  #   org: Remote for Singapore-based Company
+  #   start: February 2024
+  #   end: Present
+  #   location: Singapore
+  #   details:
+  #     - Led a remote team of 4 engineers in Vietnam, focusing primarily on <b>code reviews</b> to ensure high-quality standards and maintain consistency across the codebase.
+  #     - Conducted <b>detailed code reviews</b>, providing feedback, and ensuring adherence to best practices in <b>Golang</b> development, reducing bug rates by 15%.
+  #     - Collaborated with the <b>CTO</b> and <b>Product Owner</b> in Singapore to ensure the team delivered solutions that aligned with business needs.
+  #     - Developed backend services using <b>Golang</b> to integrate multiple ride-hailing services, optimizing data handling and improving response times by 25%.
+  #     - Managed local <b>data storage</b> for user transactions, ensuring <b>fast response times</b> and high availability for customer requests.
+  #     - Applied <b>Scrum</b> methodology to manage sprints and continuously improve team performance.
+  #   tech:
+  #     - Go (Golang)
+  #     - API Integration
+  #     - Microservices
+  #     - RESTful APIs
+  #     - Data Management
+  #     - Code Reviews
+  #     - Scrum
+  #     - SQL/NoSQL Databases
 
   - title: Principal Software Engineer
     org: ZaloPay, Zion Corporation
@@ -208,11 +208,11 @@ skills:
 # Projects
 # -----------------------------------------------------------------------------
 projects:
-  - title: Ride-Hailing Aggregation Platform
-    details:
-      - Developed a unified backend system connecting multiple ride-hailing services, improving user ride-booking efficiency by integrating real-time data from partners.
-      - Ensured high-quality code through <b>extensive code reviews</b>, reducing bug rates by 15% and improving system stability.
-      - Optimized the platform for <b>high concurrency</b>, supporting thousands of users with minimal latency.
+  # - title: Ride-Hailing Aggregation Platform
+  #   details:
+  #     - Developed a unified backend system connecting multiple ride-hailing services, improving user ride-booking efficiency by integrating real-time data from partners.
+  #     - Ensured high-quality code through <b>extensive code reviews</b>, reducing bug rates by 15% and improving system stability.
+  #     - Optimized the platform for <b>high concurrency</b>, supporting thousands of users with minimal latency.
 
   - title: ZaloPay Merchant Platform
     details:
