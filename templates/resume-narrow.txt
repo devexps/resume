@@ -59,7 +59,7 @@
     {{ edu['field'] }},
     {{ edu['start'] }} - {{ edu['end'] }}
 
-  * Grade: {{ edu['grade'] }}
+  * {{ edu['grade'] }}
 {% endfor %}
 
 ## Goals

@@ -70,7 +70,7 @@ _**Key Technologies:**
 {{ edu['degree'] }}, {{ edu['field'] }},
 {{ edu['start'] }} - {{ edu['end'] }}
 
-* Grade: {{ edu['grade'] }}
+* {{ edu['grade'] }}
 {% endfor %}
 
 <br/><br/>

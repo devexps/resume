@@ -43,6 +43,7 @@ def main():
         resume_content = yaml.safe_load(file)
 
         with open(config.resume_yaml, 'w') as outfile:
+            outfile.write("---\n\n")
             yaml.dump(resume_content, outfile, Dumper=Dumper, sort_keys=False, indent=2, width=60)
 
 

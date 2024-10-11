@@ -9,8 +9,8 @@
 # Header
 # -----------------------------------------------------------------------------
 name: Thang Ngo
-headline: Senior Backend Engineer / Technical Lead
-description: Thang Ngo is a Senior Backend Engineer and Technical Lead with over 12 years of experience in backend development, microservices, and leading teams to deliver scalable software solutions. Currently specializing in Golang and DevOps practices.
+headline: Senior Backend Engineer / Technical Lead with Golang Expertise
+description: Thang Ngo is a Senior Backend Engineer and Technical Lead with over 10 years of experience in backend development, microservices, and leading teams to deliver scalable software solutions. Currently specializing in Golang and DevOps practices.
 url: https://devexps.com/resume
 repo:
   url: https://github.com/devexps/resume
@@ -39,49 +39,47 @@ contact:
     title: HCMC, Vietnam
     url: https://en.wikipedia.org/wiki/Ho_Chi_Minh_City
 
-summary: Experienced <b>Senior Backend Engineer</b> with over 10 years of experience in software development, specializing in <b>Golang</b> and backend systems. With a strong ability to combine 70% hands-on coding and 30% leadership, I effectively manage cross-functional teams while mentoring junior developers to improve performance. I have a proven track record in optimizing systems, designing <b>microservices</b>, and maintaining <b>CI/CD pipelines</b>. Skilled in managing large-scale <b>databases</b> to ensure high performance and availability. I am now looking for a new challenge where I can apply my technical and leadership skills to solve real-world problems and drive innovation in a dynamic environment.
+summary: Experienced <b>Senior Backend Engineer</b> with over 10 years of experience in software development, including <b>5+ years</b> of hands-on experience with Golang. I specialize in backend systems and aim to continue focusing on <b>Golang</b> in future roles, leveraging my expertise in <b>microservices</b>, <b>CI/CD pipelines</b>, and <b>large-scale databases</b>. Combining 70% hands-on coding with 30% leadership, I manage cross-functional teams and mentor junior developers to drive performance improvements. I am now looking for a new challenge where I can apply my technical and leadership skills to solve real-world problems and drive innovation in a dynamic environment.
 
 # -----------------------------------------------------------------------------
 # Experience
 # -----------------------------------------------------------------------------
 experience:
-  # - title: Senior Backend Engineer / Team Lead
-  #   org: Remote for Singapore-based Company
-  #   start: March 2024
-  #   end: Present
-  #   location:
-  #   details:
-  #     - Led a remote team of 4 engineers in Vietnam, focusing primarily on <b>code reviews</b> to ensure high-quality standards and maintain consistency across the codebase.
-  #     - Spent a significant portion of time conducting detailed <b>code reviews</b>, providing feedback, and ensuring adherence to best practices in <b>Golang</b> development.
-  #     - Worked closely with the <b>CTO</b> and <b>Product Owner</b> in Singapore to align business requirements with technical solutions, ensuring the team implemented them effectively.
-  #     - Developed backend services using <b>Golang</b> to connect multiple ride-hailing services into one platform, allowing users to search and book rides across different partners.
-  #     - Managed local <b>data storage</b> for user transactions, ensuring <b>fast response times</b> and high availability for customer requests.
-  #     - Handled <b>database queries</b> and implemented optimizations to ensure real-time data processing from partner services.
-  #     - Applied <b>Scrum</b> methodology to manage sprints and improve team performance.
-  #   tech:
-  #     - Go (Golang)
-  #     - API Integration
-  #     - Microservices
-  #     - RESTful APIs
-  #     - Data Management
-  #     - Code Reviews
-  #     - Scrum
-  #     - SQL/NoSQL Databases
+  - title: Senior Backend Engineer / Team Lead
+    org: Remote for Singapore-based Company
+    start: February 2024
+    end: Present
+    location: Singapore
+    details:
+      - Led a remote team of 4 engineers in Vietnam, focusing primarily on <b>code reviews</b> to ensure high-quality standards and maintain consistency across the codebase.
+      - Conducted <b>detailed code reviews</b>, providing feedback, and ensuring adherence to best practices in <b>Golang</b> development, reducing bug rates by 15%.
+      - Collaborated with the <b>CTO</b> and <b>Product Owner</b> in Singapore to ensure the team delivered solutions that aligned with business needs.
+      - Developed backend services using <b>Golang</b> to integrate multiple ride-hailing services, optimizing data handling and improving response times by 25%.
+      - Managed local <b>data storage</b> for user transactions, ensuring <b>fast response times</b> and high availability for customer requests.
+      - Applied <b>Scrum</b> methodology to manage sprints and continuously improve team performance.
+    tech:
+      - Go (Golang)
+      - API Integration
+      - Microservices
+      - RESTful APIs
+      - Data Management
+      - Code Reviews
+      - Scrum
+      - SQL/NoSQL Databases
 
   - title: Principal Software Engineer
     org: ZaloPay, Zion Corporation
     start: June 2020
-    end: January 2024
+    end: December 2023
     location: Z06, No.13, KCX Tan Thuan, Q7, HCM, Vietnam
     details:
-      - Led the development of a payment platform that supports over <b>1,000 merchants</b>, processing millions of transactions monthly.
-      - Developed tools for merchants to track and manage transactions, providing real-time updates on transaction status and ensuring secure <b>database</b> operations.
+      - Led the development of a payment platform supporting over <b>1,000 merchants</b>, processing millions of transactions monthly.
+      - Developed tools for merchants to track and manage transactions, providing real-time updates and improving <b>database</b> operations.
       - Implemented <b>Rate Limiter</b> to prevent API overloading, ensuring system stability and consistent performance under high traffic.
-      - Applied <b>Circuit Breaker</b> patterns to handle service failures gracefully, minimizing downtime and preventing cascading failures across the microservices.
+      - Applied <b>Circuit Breaker</b> patterns to gracefully handle service failures, reducing downtime by 30%.
       - Built internal tools for <b>Operations</b>, <b>Accounting</b>, and <b>Risk teams</b>, improving compliance and operational efficiency.
-      - Managed a team of 7-10 engineers, working closely with <b>Product Owners</b> to translate business needs into technical tasks.
+      - Managed a team of 7-10 engineers, collaborating with <b>Product Owners</b> to break down technical tasks aligned with business goals.
       - Introduced <b>CI/CD pipelines</b>, reducing deployment times by 50% and improving system reliability.
-      - Optimized <b>payment processing</b>, reducing transaction times by 20% and increasing system throughput.
     tech:
       - Go (Golang)
       - Docker
@@ -105,8 +103,8 @@ experience:
     details:
       - Designed and implemented microservices using <b>gRPC</b> and <b>RESTful APIs</b>, enabling seamless integration with internal and external systems.
       - Optimized the caching system with <b>Redis</b> and <b>Elasticsearch</b>, reducing response times by 25%.
-      - Managed the design and optimization of <b>database schemas</b> and queries to improve data retrieval and performance.
-      - Worked closely with <b>stakeholders</b> from various departments (Product, UX/UI, Operations) to align business requirements with technical solutions.
+      - Led <b>database schema</b> design and optimization to improve data retrieval and performance, reducing query execution times by 20%.
+      - Worked closely with <b>stakeholders</b> from various departments (Product, UX/UI, Operations) to align technical solutions with business needs.
       - Led sprint planning and retrospectives, helping the team identify and resolve issues for continuous improvement.
       - Developed a <b>microservices framework</b>, reducing development time for new features by 20%.
     tech:
@@ -127,11 +125,11 @@ experience:
     end: May 2018
     location: 182 Le Dai Hanh, HCM, Vietnam
     details:
-      - Led the mobile development team for Android and iOS platforms, overseeing 5 engineers. Provided technical direction and ensured smooth collaboration between frontend and backend teams.
-      - Held weekly team meetings to discuss progress, resolve issues, and set short-term goals, improving team productivity by 15%.
-      - Implemented <b>Agile processes</b>, enabling the team to consistently deliver product updates on time.
+      - Led the mobile development team for Android and iOS platforms, overseeing 5 engineers. Provided technical direction and ensured smooth collaboration with backend teams.
+      - Conducted team meetings to discuss progress, set short-term goals, and resolve issues, improving productivity by 15%.
+      - Implemented <b>Agile processes</b>, ensuring on-time delivery of product updates.
       - Integrated <b>backend services</b> with <b>databases</b> to ensure data integrity and high performance across mobile platforms.
-      - Mentored team members in mobile development and cross-platform tools, helping some developers expand their skills into full-stack development.
+      - Mentored team members in mobile development, helping some transition into full-stack developers.
     tech:
       - Android
       - iOS
@@ -148,10 +146,9 @@ experience:
     end: May 2015
     location: 182 Le Dai Hanh, HCM, Vietnam
     details:
-      - Worked closely with business stakeholders to gather requirements and design backend systems using <b>C/C++</b> and <b>Python</b>.
-      - Developed and optimized <b>database schemas</b> and <b>APIs</b>, improving data retrieval and transaction handling.
-      - Documented APIs using <b>Swagger</b> for internal and third-party use, ensuring easy integration and future maintenance.
-      - Supported junior developers by providing <b>code reviews</b> and guidance on best practices.
+      - Designed backend systems and <b>optimized database schemas</b> for better data retrieval and transaction handling.
+      - Documented <b>APIs using Swagger</b> for internal and third-party use, ensuring easy integration and future maintenance.
+      - Provided guidance to junior developers through <b>code reviews</b>, improving overall code quality and reducing bugs by 20%.
     tech:
       - C/C++
       - Python
@@ -166,11 +163,9 @@ experience:
     end: August 2012
     location: 3 thang 2, HCM, Vietnam
     details:
-      - Designed and implemented <b>database schemas</b> to improve data retrieval speeds for various web applications.
-      - Built and maintained <b>RESTful APIs</b> to increase the number of property listings on the platform.
+      - Designed and optimized <b>database schemas</b> to improve data retrieval speeds for web applications.
+      - Built and maintained <b>RESTful APIs</b> to increase property listings and enhance platform scalability.
       - Collaborated with frontend teams to improve user experience, leading to a 25% increase in website traffic.
-      - Worked on backend services using <b>PHP</b>, <b>MySQL</b>, and <b>JavaScript</b>, focusing on improving performance and scalability for web applications.
-      - Delivered software solutions using <b>PHP frameworks</b> and content management systems like <b>WordPress</b>, <b>Drupal</b>, and <b>Contao</b>.
     tech:
       - PHP
       - MySQL
@@ -213,26 +208,23 @@ skills:
 # Projects
 # -----------------------------------------------------------------------------
 projects:
-  # - title: Ride-Hailing Aggregation Platform
-  #   details:
-  #     - Developed a unified backend system connecting multiple ride-hailing services, improving user ride-booking efficiency by integrating real-time data from partners.
-  #     - Ensured high-quality code through extensive code reviews, resulting in reduced bug rates and better system stability.
-  #     - Optimized the platform for high concurrency, supporting thousands of users with minimal latency.
-  #     - Successfully launched the platform, improving response times and increasing system reliability.
+  - title: Ride-Hailing Aggregation Platform
+    details:
+      - Developed a unified backend system connecting multiple ride-hailing services, improving user ride-booking efficiency by integrating real-time data from partners.
+      - Ensured high-quality code through <b>extensive code reviews</b>, reducing bug rates by 15% and improving system stability.
+      - Optimized the platform for <b>high concurrency</b>, supporting thousands of users with minimal latency.
 
   - title: ZaloPay Merchant Platform
     details:
-      - Led the design and development of a payment system that supports over 1,000 merchants, processing millions of transactions monthly.
-      - Integrated monitoring and management tools for both merchants and internal teams, improving efficiency and reducing downtime.
-      - Developed a reusable microservices framework at ZaloPay, enabling faster development of new services and improving scalability.
+      - Led the design and development of a payment system that supports over <b>1,000 merchants</b>, processing millions of transactions monthly.
+      - Integrated monitoring and management tools for both merchants and internal teams, reducing downtime by 20%.
+      - Developed a reusable <b>microservices framework</b> at ZaloPay, enabling faster development of new services and improving scalability.
 
   - title: TalkTV Social Media Platform
     details:
-      - Contributed to the development of TalkTV, an online social media platform for idols, game streamers, and viewers to interact via chat, emojis, and gifts. Supported real-time communication with up to 2,000 concurrent users per room.
-      - Expanded the platform from desktop to web, focusing on core features and management tools for idols and streamers.
-      - Worked on the development of the mobile platform (iOS and Android) to ensure that essential features for users and streamers were functional.
-      - Joined the backend team to develop features that enabled real-time interactions between multiple users and streamers, focusing on optimizing performance for low-latency and high-concurrency environments.
-      - Tackled challenges related to video rendering, voice streaming, and data security across different device types and platforms.
+      - Contributed to the development of <b>TalkTV</b>, an online social media platform for idols, game streamers, and viewers, supporting real-time communication with up to <b>2,000 concurrent users</b> per room.
+      - Expanded the platform from <b>desktop to mobile</b> (iOS and Android), ensuring essential features for both users and streamers.
+      - Optimized <b>real-time interactions</b> between users and streamers, focusing on low-latency and high-concurrency performance.
 
 # -----------------------------------------------------------------------------
 # Goals
