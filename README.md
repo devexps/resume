@@ -101,11 +101,11 @@ PHP, MySQL, JavaScript, HTML, CSS, WordPress, Drupal, MongoDB, Nginx, Linux_
 
 ## Key Skills
 
-* **Backend Development**: Go (Golang), Microservices, RESTful APIs, gRPC
+* **Backend Development**: Go (Golang), Microservices, RESTful APIs, gRPC, GraphQL
 * **Mobile Development**: Java, Kotlin, Objective-C, Swift, Dart
-* **DevOps & CI/CD**: Docker, Kubernetes (used for service deployment), Jenkins, GitLab CI/CD
+* **DevOps & CI/CD**: Docker, Kubernetes (used for service deployment), Jenkins, GitLab CI/CD, AWS
 * **Databases & Caching**: MySQL, PostgreSQL, TiDB, TiKV, Redis, Elasticsearch
-* **Service Communication & Orchestration**: Kafka, ETCD, Rate Limiter, Circuit Breaker
+* **Service Communication & Orchestration**: Kafka, RabbitMQ, ETCD, Rate Limiter, Circuit Breaker
 * **Monitoring & Tracing**: Prometheus, Grafana, Jaeger, OpenTelemetry, Zipkin
 * **Logging & Visualization**: EFK (Elasticsearch + Fluentd + Kibana)
 * **System Design & Scalability**: High-performance systems, Distributed systems
