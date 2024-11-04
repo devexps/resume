@@ -195,11 +195,11 @@ education:
 # -----------------------------------------------------------------------------
 skills:
   keys:
-    - '<b>Backend Development</b>: Go (Golang), Microservices, RESTful APIs, gRPC'
+    - '<b>Backend Development</b>: Go (Golang), Microservices, RESTful APIs, gRPC, GraphQL'
     - '<b>Mobile Development</b>: Java, Kotlin, Objective-C, Swift, Dart'
-    - '<b>DevOps & CI/CD</b>: Docker, Kubernetes (used for service deployment), Jenkins, GitLab CI/CD'
+    - '<b>DevOps & CI/CD</b>: Docker, Kubernetes (used for service deployment), Jenkins, GitLab CI/CD, AWS'
     - '<b>Databases & Caching</b>: MySQL, PostgreSQL, TiDB, TiKV, Redis, Elasticsearch'
-    - '<b>Service Communication & Orchestration</b>: Kafka, ETCD, Rate Limiter, Circuit Breaker'
+    - '<b>Service Communication & Orchestration</b>: Kafka, RabbitMQ, ETCD, Rate Limiter, Circuit Breaker'
     - '<b>Monitoring & Tracing</b>: Prometheus, Grafana, Jaeger, OpenTelemetry, Zipkin'
     - '<b>Logging & Visualization</b>: EFK (Elasticsearch + Fluentd + Kibana)'
     - '<b>System Design & Scalability</b>: High-performance systems, Distributed systems'
