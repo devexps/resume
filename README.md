@@ -1,6 +1,6 @@
 # Thang Ngo
 
-## Senior Backend Engineer / Technical Lead with Golang Expertise
+## Senior Backend Engineer / Team Lead with Golang Expertise
 
 <br/><br/>
 
@@ -28,14 +28,14 @@ Experienced **Senior Backend Engineer** with over 10 years of experience in soft
 
 * Led the development of a payment platform supporting over **1,000 merchants**, processing millions of transactions monthly.
 * Developed tools for merchants to track and manage transactions, providing real-time updates and improving **database** operations.
-* Implemented **Rate Limiter** to prevent API overloading, ensuring system stability and consistent performance under high traffic.
-* Applied **Circuit Breaker** patterns to gracefully handle service failures, reducing downtime by 30%.
+* Implemented solutions like **Rate Limiter** and **Circuit Breaker** to prevent API overloads and handle service failures, improving stability and reducing downtime by 30% under heavy traffic.
+* Integrated **GraphQL** to efficiently serve multiple platforms, including web and mobile, providing flexible data querying and reducing network requests.
 * Built internal tools for **Operations**, **Accounting**, and **Risk teams**, improving compliance and operational efficiency.
 * Managed a team of 7-10 engineers, collaborating with **Product Owners** to break down technical tasks aligned with business goals.
 * Introduced **CI/CD pipelines**, reducing deployment times by 50% and improving system reliability.
 
 _**Key Technologies:** 
-Go (Golang), Docker, Kubernetes, Prometheus, Jenkins, GitLab CI/CD, Microservices, Elasticsearch, MySQL, TiDB/TiKV, Kafka, Rate Limiter, Circuit Breaker_
+Go (Golang), Docker, Kubernetes, Prometheus, Jenkins, GitLab CI/CD, Microservices, Elasticsearch, MySQL, TiDB/TiKV, Kafka, Rate Limiter, Circuit Breaker, GraphQL_
 
 <br/>
 
