@@ -9,8 +9,8 @@
 # Header
 # -----------------------------------------------------------------------------
 name: Thang Ngo
-headline: Senior Backend Engineer / Technical Lead with Golang Expertise
-description: Thang Ngo is a Senior Backend Engineer and Technical Lead with over 10 years of experience in backend development, microservices, and leading teams to deliver scalable software solutions. Currently specializing in Golang and DevOps practices.
+headline: Senior Backend Engineer / Team Lead with Golang Expertise
+description: Thang Ngo is a Senior Backend Engineer with over 10 years of experience in backend development, microservices, and leading teams to deliver scalable software solutions. Currently specializing in Golang and DevOps practices.
 url: https://devexps.com/resume
 repo:
   url: https://github.com/devexps/resume
@@ -75,8 +75,8 @@ experience:
     details:
       - Led the development of a payment platform supporting over <b>1,000 merchants</b>, processing millions of transactions monthly.
       - Developed tools for merchants to track and manage transactions, providing real-time updates and improving <b>database</b> operations.
-      - Implemented <b>Rate Limiter</b> to prevent API overloading, ensuring system stability and consistent performance under high traffic.
-      - Applied <b>Circuit Breaker</b> patterns to gracefully handle service failures, reducing downtime by 30%.
+      - Implemented solutions like <b>Rate Limiter</b> and <b>Circuit Breaker</b> to prevent API overloads and handle service failures, improving stability and reducing downtime by 30% under heavy traffic.
+      - Integrated <b>GraphQL</b> to efficiently serve multiple platforms, including web and mobile, providing flexible data querying and reducing network requests.
       - Built internal tools for <b>Operations</b>, <b>Accounting</b>, and <b>Risk teams</b>, improving compliance and operational efficiency.
       - Managed a team of 7-10 engineers, collaborating with <b>Product Owners</b> to break down technical tasks aligned with business goals.
       - Introduced <b>CI/CD pipelines</b>, reducing deployment times by 50% and improving system reliability.
@@ -94,6 +94,7 @@ experience:
       - Kafka
       - Rate Limiter
       - Circuit Breaker
+      - GraphQL
 
   - title: Associate Software Manager
     org: ZaloPay, VNG Corporation
