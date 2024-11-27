@@ -9,8 +9,8 @@
 # Header
 # -----------------------------------------------------------------------------
 name: Thang Ngo
-headline: Senior Backend Engineer / Team Lead with Golang Expertise
-description: Thang Ngo is a Senior Backend Engineer with over 10 years of experience in backend development, microservices, and leading teams to deliver scalable software solutions. Currently specializing in Golang and DevOps practices.
+headline: Senior Software Engineer / Team Lead with Golang Expertise
+description: Thang Ngo is a Senior Software Engineer with over 10 years of experience in software development, microservices, and leading teams to deliver scalable software solutions. Currently specializing in Golang and DevOps practices.
 url: https://devexps.com/resume
 repo:
   url: https://github.com/devexps/resume
@@ -39,13 +39,13 @@ contact:
     title: HCMC, Vietnam
     url: https://en.wikipedia.org/wiki/Ho_Chi_Minh_City
 
-summary: Experienced <b>Senior Backend Engineer</b> with over 10 years of experience in software development, including <b>5+ years</b> of hands-on experience with Golang. I specialize in backend systems and aim to continue focusing on <b>Golang</b> in future roles, leveraging my expertise in <b>microservices</b>, <b>CI/CD pipelines</b>, and <b>large-scale databases</b>. Combining 70% hands-on coding with 30% leadership, I manage cross-functional teams and mentor junior developers to drive performance improvements. I am now looking for a new challenge where I can apply my technical and leadership skills to solve real-world problems and drive innovation in a dynamic environment.
+summary: Experienced <b>Senior Software Engineer</b> with over 10 years of experience in software development, including <b>5+ years</b> of hands-on experience with Golang. I specialize in backend systems and aim to continue focusing on <b>Golang</b> in future roles, leveraging my expertise in <b>microservices</b>, <b>CI/CD pipelines</b>, and <b>large-scale databases</b>. Combining 70% hands-on coding with 30% leadership, I manage cross-functional teams and mentor junior developers to drive performance improvements. I am now looking for a new challenge where I can apply my technical and leadership skills to solve real-world problems and drive innovation in a dynamic environment.
 
 # -----------------------------------------------------------------------------
 # Experience
 # -----------------------------------------------------------------------------
 experience:
-  # - title: Senior Backend Engineer / Team Lead
+  # - title: Senior Software Engineer / Team Lead
   #   org: Remote for Singapore-based Company
   #   start: February 2024
   #   end: Present
@@ -95,6 +95,7 @@ experience:
       - Rate Limiter
       - Circuit Breaker
       - GraphQL
+      - Dart
 
   - title: Associate Software Manager
     org: ZaloPay, VNG Corporation
@@ -141,7 +142,7 @@ experience:
       - Google Maps API
       - MySQL
 
-  - title: Senior Backend Developer
+  - title: Senior Software Developer
     org: TalkTV, VNG Corporation
     start: August 2012
     end: May 2015
@@ -231,7 +232,7 @@ projects:
 # Goals
 # -----------------------------------------------------------------------------
 
-goals: I am looking for a new opportunity where I can combine my technical skills and leadership experience to solve real-world problems. My goal is to work in a dynamic environment that challenges me technically, while also allowing me to contribute to team development and project success. I want to apply my knowledge of backend development, microservices, and DevOps to create efficient, scalable systems that make a real impact.
+goals: I am looking for a new opportunity where I can combine my technical skills and leadership experience to solve real-world problems. My goal is to work in a dynamic environment that challenges me technically, while also allowing me to contribute to team development and project success. I want to apply my knowledge of software development, microservices, and DevOps to create efficient, scalable systems that make a real impact.
 
 
 

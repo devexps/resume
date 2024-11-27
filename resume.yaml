@@ -1,9 +1,9 @@
 ---
 
 name: Thang Ngo
-headline: Senior Backend Engineer / Team Lead with Golang Expertise
-description: Thang Ngo is a Senior Backend Engineer with over
-  10 years of experience in backend development, microservices,
+headline: Senior Software Engineer / Team Lead with Golang Expertise
+description: Thang Ngo is a Senior Software Engineer with over
+  10 years of experience in software development, microservices,
   and leading teams to deliver scalable software solutions. Currently
   specializing in Golang and DevOps practices.
 url: https://devexps.com/resume
@@ -30,7 +30,7 @@ contact:
   location:
     title: HCMC, Vietnam
     url: https://en.wikipedia.org/wiki/Ho_Chi_Minh_City
-summary: Experienced <b>Senior Backend Engineer</b> with over
+summary: Experienced <b>Senior Software Engineer</b> with over
   10 years of experience in software development, including <b>5+
   years</b> of hands-on experience with Golang. I specialize in
   backend systems and aim to continue focusing on <b>Golang</b>
@@ -84,6 +84,7 @@ experience:
       - Rate Limiter
       - Circuit Breaker
       - GraphQL
+      - Dart
   - title: Associate Software Manager
     org: ZaloPay, VNG Corporation
     start: June 2018
@@ -143,7 +144,7 @@ experience:
       - Firebase
       - Google Maps API
       - MySQL
-  - title: Senior Backend Developer
+  - title: Senior Software Developer
     org: TalkTV, VNG Corporation
     start: August 2012
     end: May 2015
@@ -242,5 +243,5 @@ goals: I am looking for a new opportunity where I can combine
   problems. My goal is to work in a dynamic environment that challenges
   me technically, while also allowing me to contribute to team
   development and project success. I want to apply my knowledge
-  of backend development, microservices, and DevOps to create
+  of software development, microservices, and DevOps to create
   efficient, scalable systems that make a real impact.
