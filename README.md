@@ -1,6 +1,6 @@
 # Thang Ngo
 
-## Senior Backend Engineer / Team Lead with Golang Expertise
+## Senior Software Engineer / Team Lead with Golang Expertise
 
 <br/><br/>
 
@@ -16,7 +16,7 @@
 
 ## Summary
 
-Experienced **Senior Backend Engineer** with over 10 years of experience in software development, including **5+ years** of hands-on experience with Golang. I specialize in backend systems and aim to continue focusing on **Golang** in future roles, leveraging my expertise in **microservices**, **CI/CD pipelines**, and **large-scale databases**. Combining 70% hands-on coding with 30% leadership, I manage cross-functional teams and mentor junior developers to drive performance improvements. I am now looking for a new challenge where I can apply my technical and leadership skills to solve real-world problems and drive innovation in a dynamic environment.
+Experienced **Senior Software Engineer** with over 10 years of experience in software development, including **5+ years** of hands-on experience with Golang. I specialize in backend systems and aim to continue focusing on **Golang** in future roles, leveraging my expertise in **microservices**, **CI/CD pipelines**, and **large-scale databases**. Combining 70% hands-on coding with 30% leadership, I manage cross-functional teams and mentor junior developers to drive performance improvements. I am now looking for a new challenge where I can apply my technical and leadership skills to solve real-world problems and drive innovation in a dynamic environment.
 
 <br/><br/>
 
@@ -35,7 +35,7 @@ Experienced **Senior Backend Engineer** with over 10 years of experience in soft
 * Introduced **CI/CD pipelines**, reducing deployment times by 50% and improving system reliability.
 
 _**Key Technologies:** 
-Go (Golang), Docker, Kubernetes, Prometheus, Jenkins, GitLab CI/CD, Microservices, Elasticsearch, MySQL, TiDB/TiKV, Kafka, Rate Limiter, Circuit Breaker, GraphQL_
+Go (Golang), Docker, Kubernetes, Prometheus, Jenkins, GitLab CI/CD, Microservices, Elasticsearch, MySQL, TiDB/TiKV, Kafka, Rate Limiter, Circuit Breaker, GraphQL, Dart_
 
 <br/>
 
@@ -70,7 +70,7 @@ Android, iOS, Swift, Java, Google Cloud Messaging, Firebase, Google Maps API, My
 
 <br/>
 
-### Senior Backend Developer with TalkTV, VNG Corporation
+### Senior Software Developer with TalkTV, VNG Corporation
 
 **August 2012 - May 2015 - 182 Le Dai Hanh, HCM, Vietnam**
 
@@ -150,7 +150,7 @@ Bachelor's degree, Information Technology,
 
 ## Goals
 
-I am looking for a new opportunity where I can combine my technical skills and leadership experience to solve real-world problems. My goal is to work in a dynamic environment that challenges me technically, while also allowing me to contribute to team development and project success. I want to apply my knowledge of backend development, microservices, and DevOps to create efficient, scalable systems that make a real impact.
+I am looking for a new opportunity where I can combine my technical skills and leadership experience to solve real-world problems. My goal is to work in a dynamic environment that challenges me technically, while also allowing me to contribute to team development and project success. I want to apply my knowledge of software development, microservices, and DevOps to create efficient, scalable systems that make a real impact.
 
 <br/><br/>
 
